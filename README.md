@@ -10,3 +10,5 @@ Example 3 -- Compiler at low-level with dot files.
 Example 4 -- Assembly code.
 
 Example 5 -- Dyanmic linking.
+
+Example 6 -- SFML Linking.
